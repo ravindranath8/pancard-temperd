@@ -8,4 +8,7 @@ pillow
 numpy
 opencv-python
 scikit-image
+opencv-python
+opencv-python-headless
+
 
