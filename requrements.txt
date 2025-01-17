@@ -3,4 +3,9 @@ pillow
 numpy
 opencv-python
 scikit-image
+streamlit
+pillow
+numpy
+opencv-python
+scikit-image
 
